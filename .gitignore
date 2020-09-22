@@ -1,0 +1,8 @@
+#ignore all object files
+*.o
+
+#ignore all shared object files
+*.so
+
+#ignore all swap files
+*.swp
